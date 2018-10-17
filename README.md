@@ -1,6 +1,6 @@
 # Taller:Primeros pasos en R 
-Este repositorio tendrá como finalidad alojar el material tanto teórico como práctico del curso a dictarse en la UNNE-Facultad de Ciencias Exactas, Naturales y Agrimensura 
-en el mes de Novimiembre.
+Se propone un curso gratuito de introducción a R, el mismo se apoyará en el GUI RStudio v1.1.456 y en el paquete gráfico ggplot2.
+Dicho curso será dictado como una actividad del Dpto. de Informática con el apoyo de R-Ladies Resistencia-Corrientes en la Facultad de Ciencias Exactas, Naturales y Agrimensura perteneciente a la Universidad Nacional del Nordeste en el mes de Novimiembre.
 # Objetivos
 Al finalizar el curso, el participante deberá ser capaz de:
 
@@ -11,6 +11,10 @@ Al finalizar el curso, el participante deberá ser capaz de:
 *	Comprender la conveniencia de utilizar scripts y ser capaz de elaborarlos y utilizarlos.
 *	Elaborar gráficos utilizando R, y en especial el paquete ggplot2.
 
+# Equipo de Profesores
+
+*	Lic. en Sistemas y estudiante de Maestría en Tecnologías de la Información Patricia A. Loto 
+* Dra. en Recursos Naturales Roxana Noelia Villafañe 
 
 # Material Teórico
 # Ejercicios Prácticos
