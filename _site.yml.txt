@@ -1,0 +1,10 @@
+name: "my-website"
+navbar:
+  title: "Primeros Pasos en R"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Referencias"
+      href: about.html
+    - text: "Acerca de los profesores"
+      href: about.html
