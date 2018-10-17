@@ -1,7 +1,9 @@
 # Taller:Primeros pasos en R 
 Se propone un curso gratuito de introducción a R, el mismo se apoyará en el GUI RStudio v1.1.456 y en el paquete gráfico ggplot2.
-Dicho curso será dictado como una actividad del Dpto. de Informática con el apoyo de R-Ladies Resistencia-Corrientes en la Facultad de Ciencias Exactas, Naturales y Agrimensura perteneciente a la Universidad Nacional del Nordeste en el mes de Novimiembre.
-# Objetivos
+Dicho curso será dictado como una actividad del Dpto. de Informática con el apoyo de R-Ladies Resistencia-Corrientes en la Facultad de 
+Ciencias Exactas, Naturales y Agrimensura perteneciente a la Universidad Nacional del Nordeste en el mes de Novimiembre.
+
+## Objetivos
 Al finalizar el curso, el participante deberá ser capaz de:
 
 *	Usar R en modo interactivo y haberse familiarizado con el uso de RStudio v1.1.456.
@@ -11,17 +13,18 @@ Al finalizar el curso, el participante deberá ser capaz de:
 *	Comprender la conveniencia de utilizar scripts y ser capaz de elaborarlos y utilizarlos.
 *	Elaborar gráficos utilizando R, y en especial el paquete ggplot2.
 
-# Equipo de Profesores
+## Equipo de Profesores
 
 *	Lic. en Sistemas y estudiante de Maestría en Tecnologías de la Información Patricia A. Loto 
 * Dra. en Recursos Naturales Roxana Noelia Villafañe 
 
-# Material Teórico
-# Ejercicios Prácticos
-# Recursos 
+## Material Teórico
+## Ejercicios Prácticos
+## Recursos 
 * R 3.5.1: http://cran.at.r-project.org/
 *	Rstudio v1.1.456: http://rstudio.org/ https://www.rstudio.com/products/rstudio/download/
-# Referencias
+
+## Referencias
 *	Santana, J S; Farfán, E M.(2014) El arte de programar en R. Un lenguaje para la estadística. UNESCO. Disponible para descarga en: https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf
 *	Grolemund, G. (2014) Hands on Programming with R. Write your own functions and simulations. O’Reilly
 *	Teutónico, D. (2015) Ggplot2 Essentials. Packt Publishing
