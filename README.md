@@ -24,7 +24,7 @@ _Primer encuentro:_ Instalación de R y RStudio. ¿Qué es R? Aplicaciones de R.
 
 "Segundo encuentro": Paquetes: ¿qué es un paquete? Para que sirven y cómo utilizarlos. Importación de datos en R desde diferentes fuentes. Exploración básica de datos. Ejercicios Prácticos.
 
-[Tercer encuentro]: Introducción a la gramática de gráficos (Grammar of graphics). Importancia de una visualización efectiva. Función qplot y ggplot. Tipos de gráficos. Gráficos estáticos con ggplot2. Gráficos dinámicos con plotly. Ejercicios Prácticos.
+*Tercer encuentro*: Introducción a la gramática de gráficos (Grammar of graphics). Importancia de una visualización efectiva. Función qplot y ggplot. Tipos de gráficos. Gráficos estáticos con ggplot2. Gráficos dinámicos con plotly. Ejercicios Prácticos.
 Cuarto encuentro: Manipulación básica de datos: paquetes tidyr y dplyr, funciones gather(), spread(), unite(), filter(), select(), entre otras; el uso del operador pipe (%>%). Ejercicios Prácticos.
 
 Quinto encuentro: Introducción a la generación de documentos con el paquete Rmarkdown. Ejemplos. Repaso Final. 
