@@ -30,6 +30,13 @@ Al finalizar el curso, el participante deberá ser capaz de:
 **Quinto encuentro**: Introducción a la generación de documentos con el paquete Rmarkdown. Ejemplos. Repaso Final. 
 
 ## Ejercicios Prácticos
+
+## Destinatarios
+Estudiantes y profesionales de Sistemas, Biología, Ciencias Químicas, Agronomía y todo aquel que tenga interés en utilizar el lenguaje R con el objetivo de visualizar y realizar una exploración básica de datos.
+
+## Duración
+Cinco encuentros de 3 horas cada uno. 
+
 ## Recursos 
 * R 3.5.1: http://cran.at.r-project.org/
 *	Rstudio v1.1.456: http://rstudio.org/ https://www.rstudio.com/products/rstudio/download/
