@@ -1,7 +1,7 @@
 # Descripción
 Se propone un curso gratuito de introducción a R, el mismo se apoyará en el GUI RStudio v1.1.456 y en el paquete gráfico ggplot2.
 Dicho curso será dictado como una actividad del Dpto. de Informática con el apoyo de R-Ladies Resistencia-Corrientes en la Facultad de 
-Ciencias Exactas, Naturales y Agrimensura perteneciente a la Universidad Nacional del Nordeste en el mes de Novimiembre.
+Ciencias Exactas, Naturales y Agrimensura perteneciente a la Universidad Nacional del Nordeste.
 
 ## Objetivos
 Al finalizar el curso, el participante deberá ser capaz de:
@@ -11,12 +11,13 @@ Al finalizar el curso, el participante deberá ser capaz de:
 *	Instalar y utilizar paquetes de R, además de conocer la organización de  paquetes en R.
 *	Conocer la forma de trabajo con funciones y crear nuevas.
 *	Comprender la conveniencia de utilizar scripts y ser capaz de elaborarlos y utilizarlos.
-*	Elaborar gráficos utilizando R, y en especial el paquete ggplot2.
+*	Elaborar gráficos utilizando el paquete ggplot2 y plotly.
+* Manipular datos: capturar, limpiar y ordenar conjuntos de datos. 
 
 ## Equipo de Profesores
 
-*	Lic. en Sistemas y estudiante de Maestría en Tecnologías de la Información Patricia A. Loto 
-* Dra. en Recursos Naturales Roxana Noelia Villafañe 
+*	Lic. en Sistemas y estudiante de Maestría en Tecnologías de la Información: Patricia A. Loto 
+* Dra. en Recursos Naturales: Roxana Noelia Villafañe 
 
 ## Material Teórico
 ## Ejercicios Prácticos
