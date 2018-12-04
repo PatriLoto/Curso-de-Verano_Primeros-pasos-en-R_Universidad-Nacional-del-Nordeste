@@ -1,6 +1,6 @@
 # Descripción
-Se propone un curso gratuito de introducción a R, el mismo se apoyará en el GUI RStudio v1.1.456 y en el paquete gráfico ggplot2.
-Dicho curso será dictado como una actividad del Dpto. de Informática con el apoyo de R-Ladies Resistencia-Corrientes en la Facultad de 
+Se propone un curso gratuito e introductorio a R, el mismo se apoyará en el GUI RStudio v1.1.456 y en el paquete gráfico ggplot2.
+Dicho curso será dictado dentro del marco de los Curso de Verano 2019 ofrecidos por del Dpto. de Informática en la Facultad de 
 Ciencias Exactas, Naturales y Agrimensura perteneciente a la Universidad Nacional del Nordeste.
 
 ## Objetivos
