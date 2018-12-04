@@ -5,14 +5,14 @@ Ciencias Exactas, Naturales y Agrimensura perteneciente a la Universidad Naciona
 
 ## Objetivos
 Al finalizar el curso, el participante deberá ser capaz de:
-
-*	Usar R en modo interactivo y haberse familiarizado con el uso de RStudio v1.1.456.
+*	Usar R en modo interactivo y haberse familiarizado con el uso de Rstudio.
+*	Conocer y aplicar  buenas prácticas en el uso de R.
 *	Reconocer las estructuras de datos y de control básicas de R y utilizar la más adecuada para cada situación.
-*	Instalar y utilizar paquetes de R, además de conocer la organización de  paquetes en R.
-*	Conocer la forma de trabajo con funciones y crear nuevas.
+*	Instalar y utilizar paquetes, además de conocer la organización de  paquetes en R.
+*	Conocer y aplicar  buenas prácticas en el uso de R.
 *	Comprender la conveniencia de utilizar scripts y ser capaz de elaborarlos y utilizarlos.
 *	Elaborar gráficos utilizando el paquete ggplot2 y plotly.
-* Manipular datos: capturar, limpiar y ordenar conjuntos de datos. 
+*	Manipular de manera básica un conjunto de  datos: captura, limpieza y ordenamiento de datos.
 
 ## Equipo de Profesores
 
@@ -20,6 +20,15 @@ Al finalizar el curso, el participante deberá ser capaz de:
 * Dra. en Recursos Naturales: Roxana Noelia Villafañe 
 
 ## Material Teórico
+-Primer encuentro:- Instalación de R y RStudio. ¿Qué es R? Aplicaciones de R. Entorno de trabajo de Rstudio. Elementos de la sintaxis de R. Tipos de datos: datos atómicos, vectores, matrices, dataframes, factores y listas. Operadores. Estructuras de control: if, while, repeat. Funciones en R. Scripts en R y flujo de trabajo.
+
+Segundo encuentro: Paquetes: ¿qué es un paquete? Para que sirven y cómo utilizarlos. Importación de datos en R desde diferentes fuentes. Exploración básica de datos. Ejercicios Prácticos.
+
+Tercer encuentro: Introducción a la gramática de gráficos (Grammar of graphics). Importancia de una visualización efectiva. Función qplot y ggplot. Tipos de gráficos. Gráficos estáticos con ggplot2. Gráficos dinámicos con plotly. Ejercicios Prácticos.
+Cuarto encuentro: Manipulación básica de datos: paquetes tidyr y dplyr, funciones gather(), spread(), unite(), filter(), select(), entre otras; el uso del operador pipe (%>%). Ejercicios Prácticos.
+
+Quinto encuentro: Introducción a la generación de documentos con el paquete Rmarkdown. Ejemplos. Repaso Final. 
+
 ## Ejercicios Prácticos
 ## Recursos 
 * R 3.5.1: http://cran.at.r-project.org/
