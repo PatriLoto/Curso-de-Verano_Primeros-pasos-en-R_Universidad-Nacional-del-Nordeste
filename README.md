@@ -16,8 +16,8 @@ Al finalizar el curso, el participante deberá ser capaz de:
 
 ## Equipo de Profesores
 
-*	Lic. en Sistemas y estudiante de Maestría en Tecnologías de la Información: Patricia A. Loto 
-* Dra. en Recursos Naturales: Roxana Noelia Villafañe 
+*	Lic. en Sistemas y estudiante de Maestría en Tecnologías de la Información: **Patricia A. Loto** 
+* Dra. en Recursos Naturales: **Roxana Noelia Villafañe** 
 
 ## Material Teórico
 **Primer encuentro**: Instalación de R y RStudio. ¿Qué es R? Aplicaciones de R. Entorno de trabajo de Rstudio. Elementos de la sintaxis de R. Tipos de datos: datos atómicos, vectores, matrices, dataframes, factores y listas. Operadores. Estructuras de control: if, while, repeat. Funciones en R. Scripts en R y flujo de trabajo.
