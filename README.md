@@ -40,8 +40,10 @@ Estudiantes y profesionales de Sistemas, Biología, Ciencias Químicas, Agronom�
 Cinco encuentros de 3 horas cada uno. 
 
 ## Recursos 
-* R 3.5.1: http://cran.at.r-project.org/
-*	Rstudio v1.1.456: http://rstudio.org/ https://www.rstudio.com/products/rstudio/download/
+* Última versión de R: https://cran.r-project.org/bin/windows/base/
+*	Para descargar Rstudio: https://www.rstudio.com/products/rstudio/download
+* Cheatsheets de Rstudio: https://www.rstudio.com/resources/cheatsheets/
+* Webinarios de Rstudio: https://resources.rstudio.com/
 
 ## Referencias
 *	Santana, J S; Farfán, E M.(2014) El arte de programar en R. Un lenguaje para la estadística. UNESCO. Disponible para descarga en: https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf
