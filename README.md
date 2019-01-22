@@ -40,14 +40,14 @@ Estudiantes y profesionales de Sistemas, Biología, Ciencias Químicas, Agronom�
 Cinco encuentros de 3 horas cada uno. 
 
 ## Recursos 
-* Última versión de R: https://cran.r-project.org/bin/windows/base/ 
-*	Para descargar Rstudio: https://www.rstudio.com/products/rstudio/download
-* Cheatsheets de Rstudio: https://www.rstudio.com/resources/cheatsheets/
-* Webinarios de Rstudio: https://resources.rstudio.com/
-* Dataset: http://faculty.washington.edu/kenrice/heartgraphs/
+* **Última versión de R:** https://cran.r-project.org/bin/windows/base/ 
+*	**Para descargar Rstudio:** https://www.rstudio.com/products/rstudio/download
+* **Cheatsheets de Rstudio:** https://www.rstudio.com/resources/cheatsheets/
+* **Webinarios de Rstudio:** https://resources.rstudio.com/
+* **Dataset:** http://faculty.washington.edu/kenrice/heartgraphs/
 
 ## Referencias
-*	Santana, J S; Farfán, E M.(2014) El arte de programar en R. Un lenguaje para la estadística. UNESCO. Disponible para descarga en: https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf
+*	Santana, J S; Farfán, E M.(2014) El arte de programar en R. Un lenguaje para la estadística. UNESCO. Disponible para descarga en: **https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf**
 *	Grolemund, G. (2014) Hands on Programming with R. Write your own functions and simulations. O’Reilly
 *	Teutónico, D. (2015) Ggplot2 Essentials. Packt Publishing
 *	Venables, W N; Smith, D M and the R Core Team. (2018) An introduction to R. Notes on R: A Programming Environment for Data Analysis and Graphics Version 3.5.1 (2018-07-02) Disponible en: https://cran.r-project.org/doc/manuals/R-intro.pdf 
