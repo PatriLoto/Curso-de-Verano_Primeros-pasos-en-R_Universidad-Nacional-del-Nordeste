@@ -52,10 +52,10 @@ Cinco encuentros de 3 horas cada uno.
 *	Grolemund, G. (2014) Hands on Programming with R. Write your own functions and simulations. O’Reilly
 *	Teutónico, D. (2015) Ggplot2 Essentials. Packt Publishing
 *	Venables, W N; Smith, D M and the R Core Team. (2018) An introduction to R. Notes on R: A Programming Environment for Data Analysis and Graphics Version 3.5.1 (2018-07-02).
-  Disponible en: https://cran.r-project.org/doc/manuals/R-intro.pdf 
+  Disponible en: **https://cran.r-project.org/doc/manuals/R-intro.pdf**
 *	Wickham, H. (2016) ggplot2 Elegant graphics for data analysis. Springer
 *	Wickham, H; Grolemund, G. (2017) R for data science. Import, Tidy, Transform, Visualize, and Model Data. O’Reilly. 
-  Disponible en: http://r4ds.had.co.nz/ 
+  Disponible en: **http://r4ds.had.co.nz/** 
 
 
 
