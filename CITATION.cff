@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Loto
+  given-names: Patri
+orcid: https://orcid.org/0000-47250-0000-0000
+title:PatriLoto/Curso-de-Verano_Primeros-pasos-en-R_Universidad-Nacional-del-Nordeste: primera publicacion
+version: test
+date-released: 2024-09-13
